@@ -11,3 +11,8 @@ wheels/
 
 # Folder
 base
+dados_gerados
+
+# Type File
+.csv
+.xlsx
